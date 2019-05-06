@@ -1,0 +1,23 @@
+{
+  "name": "cms-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.10.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^0.19.1"
+  }
+}
